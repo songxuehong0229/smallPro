@@ -1,0 +1,4 @@
+<block a:if="{{$taroCompReady}}">
+    <view class="index"><text>Hello world!你好，世界</text>
+    </view>
+</block>
